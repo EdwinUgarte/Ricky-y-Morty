@@ -5,8 +5,8 @@ import './css/navbar.css'
 const Navbar = () => {
  
         return (
-            <>
-            <div className="navbar">
+           
+            <nav className="navbar">
                 <div>
                     <a href="/">
                      <img src="/images/Rick_and_Morty.svg.png" alt="" />
@@ -14,11 +14,8 @@ const Navbar = () => {
                 
                 </div>
             
-            </div>
-            <div>
-                
-            </div>
-            </>
+            </nav>
+          
         );
     
 }
