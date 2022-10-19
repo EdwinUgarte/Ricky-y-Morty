@@ -1,0 +1,31 @@
+div.container{
+    margin: auto;
+    width: 80%;
+    background-color: rgb(54, 150, 167);
+    box-shadow: 10px 10px 10px rgb(122, 122, 122) ;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px;
+    justify-content: center;
+    font-family: silkscreen, Arial, Helvetica, sans-serif;
+}
+
+div.personaje{
+    margin: 50px;
+    box-shadow: 5px 10px 10px;
+}
+
+a{
+    text-decoration: none;
+}
+div.nombre{
+    background-color: blue;
+    color: aliceblue;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    
+
+}
