@@ -6,7 +6,7 @@ const Navbar = () => {
 
     return (
 
-        <header className="navbar bg-light">
+        <header className="navbar navbar-expand-lg bg-light">
             <div className="cont">
                 <div>
                     <a href="/">
