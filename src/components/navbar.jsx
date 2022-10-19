@@ -6,7 +6,7 @@ const Navbar = () => {
 
     return (
 
-        <nav >
+        <header>
             <div className="navbar">
                 <div>
                     <a href="/">
@@ -16,7 +16,7 @@ const Navbar = () => {
                 </div>
             </div>
 
-        </nav>
+        </header>
 
     );
 
