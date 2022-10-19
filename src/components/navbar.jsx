@@ -6,17 +6,11 @@ const Navbar = () => {
 
     return (
 
-        <header className="navbar navbar-expand-lg bg-light">
-            <div className="cont">
-                <div>
-                    <a href="/">
-                        <img src="/images/Rick_and_Morty.svg.png" alt="" />
-                    </a>
-
-                </div>
-            </div>
-
-        </header>
+        <nav class="navbar bg-light">
+        <div class="container-fluid">
+          <a class="navbar-brand" href="#">Navbar</a>
+        </div>
+      </nav>
 
     );
 
