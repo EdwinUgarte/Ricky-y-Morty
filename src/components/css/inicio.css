@@ -1,8 +1,8 @@
 
-
 div.container{
     margin: auto;
     width: 80%;
+    background-color: rgb(54, 150, 167);
     box-shadow: 10px 10px 10px rgb(122, 122, 122) ;
     display: flex;
     flex-wrap: wrap;

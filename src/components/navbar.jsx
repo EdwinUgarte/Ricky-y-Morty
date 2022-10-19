@@ -6,8 +6,8 @@ const Navbar = () => {
 
     return (
 
-        <header>
-            <div className="navbar">
+        <header className="navbar">
+            <div className="cont">
                 <div>
                     <a href="/">
                         <img src="/images/Rick_and_Morty.svg.png" alt="" />
