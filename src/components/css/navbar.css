@@ -1,7 +1,9 @@
 
 
-div.cont{
+
+div.navbar{
     width: 100%;
+    background: rgb(12, 11, 80);
     height: 70px;
     display: flex;
     justify-content: center;
